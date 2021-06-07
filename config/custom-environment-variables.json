@@ -1,6 +1,8 @@
 {
-  "wallet": {
-    "INFURA_API_KEY": "INFURA_API_KEY",
-    "MNEMONIC": "INFURA_API_KEY"
+  "infura": {
+    "project_id": "INFURA_PROJECT_ID"
+  },
+  "wallet": {    
+    "mnemonic": "MNEMONIC"
   }
 }
