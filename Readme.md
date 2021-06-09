@@ -22,3 +22,8 @@ npm i @truffle/hdwallet-provider
 ```
 truffle compile
 ```
+
+## deploy
+```
+truffle migrate --network kovan
+```

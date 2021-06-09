@@ -9055,10 +9055,16 @@
       "links": {},
       "address": "0xDFB93fFa2fDe857acAF320e7E162A33EcED7cb5d",
       "transactionHash": "0x7303e2c428f9532ac1034ed94eadc1f4160644427da0dca692ad442e232b8eb5"
+    },
+    "42": {
+      "events": {},
+      "links": {},
+      "address": "0x0E0475fE7996861ec7cf52FeeF5E72caA5817066",
+      "transactionHash": "0xb39f0374537173310db58060dd82e02e6e706aaf22b23d95b93b265bb2e039f9"
     }
   },
   "schemaVersion": "3.4.1",
-  "updatedAt": "2021-06-09T10:50:57.217Z",
+  "updatedAt": "2021-06-09T11:16:29.295Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
