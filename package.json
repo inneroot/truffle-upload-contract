@@ -10,6 +10,7 @@
     "build": "truffle compile",
     "compile": "truffle compile",
     "migrate:ropsten": "truffle migrate --network ropsten",
+    "migrate:kovan": "truffle migrate --network kovan",
     "start": "node web3.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
